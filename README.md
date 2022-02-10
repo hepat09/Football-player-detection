@@ -7,3 +7,9 @@ The YOLO network is used to detect players ('person') on videos. Transfer learni
 The results (detections) are displayed and output videos are saved using notebook 'yolo_realtime_01.ipynb'.
 
 Note: networks weights can not be uploaded due to size limit: retrain should be preformed.
+
+
+
+https://user-images.githubusercontent.com/48058375/153469242-3e79bf4d-47d5-4bc3-ab74-cc768d0d04dc.mp4
+
+
